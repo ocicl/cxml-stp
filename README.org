@@ -1,0 +1,10 @@
+* cxml-stp
+
+Fork of David Lichteblau's cxml-stp library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/cxml-stp.git   |
+| commit  | 4fe6c71  |
+| systems | cxml-stp |
+|---------+-------------------------------------------|
+
